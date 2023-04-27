@@ -1,0 +1,2 @@
+SHA256(bbb.ovf)= c4243e3aedd53f788f7430cfaa78f468fe30b026d47964b4fbe1de9a91cdffee
+SHA256(bbb-disk1.vmdk)= a23eb43675c97262cebec56fbf5b0874dfaceb21582a43c184f4c9bff9964967
